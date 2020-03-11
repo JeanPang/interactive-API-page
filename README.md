@@ -5,6 +5,10 @@
 Play with the two APIs (AdviceSlip and FOASS) and make a new interactive API document page for people who want to access the positive quotes or the fuck-off lines.
 
 
+## Demo
+https://giftpack-phase3-project.jeanpang.now.sh/
+
+
 # Getting started
 - Clone this repo
 - `npm install` to install all req'd dependencies
